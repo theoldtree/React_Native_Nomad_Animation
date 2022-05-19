@@ -4,7 +4,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 const Container = styled.View`
   flex: 1;
-  background-color: yellowgreen;
+  background-color: lightcyan;
 `;
 
 const Btn = styled.TouchableOpacity`
