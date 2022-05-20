@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components/native";
 import { Ionicons } from "@expo/vector-icons";
+import { HEIGHT } from "../styles/styles";
 
 const Container = styled.View`
   flex: 1;
