@@ -6,6 +6,7 @@
 - elevation을 통해 그림자 생성 가능
 - 타입형태뒤에 ? 가 붙은것은 그 자료형의 data값을 필수로 기재할 필요는 없다는 뜻.
 - Component에 selected 라는 props를 두어 버튼 누르는거 마냥 상태 관릭가 가능
+- npm install @types/styled-components @types/styled-components-react-native 로 porp들의 자동완성 기능을 추가할 수 있다.
 
 ## Realm
 
